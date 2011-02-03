@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src/main" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/webapp/WEB-INF" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
@@ -24,10 +25,19 @@
       <library name="runtime">
         <CLASSES>
           <root url="file://$MODULE_DIR$/lib/runtime" />
+          <root url="file://$MODULE_DIR$/lib/runtime/logging" />
         </CLASSES>
         <JAVADOC />
-        <SOURCES />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/lib/source/org.springframework.web-sources-3.0.5.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/source/org.springframework.web.servlet-sources-3.0.5.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/source/org.springframework.beans-sources-3.0.5.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/runtime/org.springframework.context-3.0.5.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/source/org.springframework.context-sources-3.0.5.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/source/org.springframework.core-sources-3.0.5.RELEASE.jar!/" />
+        </SOURCES>
         <jarDirectory url="file://$MODULE_DIR$/lib/runtime" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/lib/runtime/logging" recursive="false" />
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">

@@ -60,22 +60,22 @@
   <component name="FileColors" enabled="true" enabledForTabs="true" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="web.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/webapp/WEB-INF/web.xml">
+      <file leaf-file-name="HelloWorldController.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/com/hibernatetest/web/HelloWorldController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="456" selection-end="456" vertical-scroll-proportion="0.42288557">
-              <folding />
+            <state line="14" column="0" selection-start="415" selection-end="415" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HandleEverythingServlet.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/com/hibernatetest/HandleEverythingServlet.java">
+      <file leaf-file-name="log4j.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/webapp/WEB-INF/log4j.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="9" selection-start="297" selection-end="297" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="3" column="20" selection-start="119" selection-end="119" vertical-scroll-proportion="0.12230216">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -83,28 +83,10 @@
       <file leaf-file-name="WebServer.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/WebServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="8" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0">
+            <state line="13" column="0" selection-start="335" selection-end="335" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PatternRule.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/lib/source/jetty/jetty-all-server-7.2.2.v20101205-sources.jar!/org/eclipse/jetty/rewrite/handler/PatternRule.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="68" column="30" selection-start="2480" selection-end="2480" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Rule.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/lib/source/jetty/jetty-all-server-7.2.2.v20101205-sources.jar!/org/eclipse/jetty/rewrite/handler/Rule.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="27" selection-start="1466" selection-end="1466" vertical-scroll-proportion="0.0">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -121,9 +103,14 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/com/hibernatetest/FilterEverythingFilter.java" />
         <option value="$PROJECT_DIR$/src/main/com/hibernatetest/HandleEverythingServlet.java" />
-        <option value="$PROJECT_DIR$/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/test/RegexpTest.java" />
         <option value="$PROJECT_DIR$/src/main/WebServer.java" />
+        <option value="$PROJECT_DIR$/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/webapp/WEB-INF/applicationContext-servlet.xml" />
+        <option value="$PROJECT_DIR$/src/main/com/hibernatetest/web/StringView.java" />
+        <option value="$PROJECT_DIR$/src/main/com/hibernatetest/web/HelloWorldController.java" />
+        <option value="$PROJECT_DIR$/webapp/WEB-INF/log4j.properties" />
+        <option value="$PROJECT_DIR$/webapp/WEB-INF/log4j.xml" />
       </list>
     </option>
   </component>
@@ -190,6 +177,38 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="small-transaction-boundaries-using-hibernate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="small-transaction-boundaries-using-hibernate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="small-transaction-boundaries-using-hibernate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="small-transaction-boundaries-using-hibernate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -209,28 +228,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="small-transaction-boundaries-using-hibernate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="small-transaction-boundaries-using-hibernate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hibernatetest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -257,11 +254,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/lib/buildtime" />
-      <recent name="$PROJECT_DIR$/lib/source/jetty" />
+      <recent name="$PROJECT_DIR$/webapp/WEB-INF" />
       <recent name="$PROJECT_DIR$/lib/runtime" />
-      <recent name="$PROJECT_DIR$/lib/buildtime/jetty" />
-      <recent name="$PROJECT_DIR$/documents" />
+      <recent name="$PROJECT_DIR$/lib/source" />
+      <recent name="$PROJECT_DIR$/lib/source/logging" />
+      <recent name="$PROJECT_DIR$/lib/runtime/logging" />
     </key>
     <key name="IntroduceConstantDialog.RECENTS_KEY">
       <recent name="RegexpTest" />
@@ -475,7 +472,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="874" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -488,7 +485,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.59151196" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.59151196" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -532,111 +529,120 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/lib/source/jetty/jetty-all-server-7.2.2.v20101205-sources.jar!/org/eclipse/jetty/server/handler/StatisticsHandler.java">
+    <entry file="jar://$PROJECT_DIR$/lib/runtime/org.springframework.beans-3.0.5.RELEASE.jar!/org/springframework/beans/BeansException.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="44" selection-start="1460" selection-end="1460" vertical-scroll-proportion="0.25373134">
+        <state line="5" column="29" selection-start="179" selection-end="179" vertical-scroll-proportion="0.16915423">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/source/jetty/jetty-all-server-7.2.2.v20101205-sources.jar!/org/eclipse/jetty/server/handler/HandlerCollection.java">
+    <entry file="jar://$PROJECT_DIR$/lib/source/org.springframework.beans-sources-3.0.5.RELEASE.jar!/org/springframework/beans/BeansException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="13" selection-start="1595" selection-end="1595" vertical-scroll-proportion="-0.7356021">
+        <state line="31" column="38" selection-start="1091" selection-end="1091" vertical-scroll-proportion="0.33333334">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/source/jetty/jetty-all-server-7.2.2.v20101205-sources.jar!/org/eclipse/jetty/server/handler/AbstractHandlerContainer.java">
+    <entry file="jar://$PROJECT_DIR$/lib/runtime/org.springframework.context-3.0.5.RELEASE.jar!/org/springframework/context/ApplicationEvent.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="33" selection-start="1171" selection-end="1171" vertical-scroll-proportion="0.5497512">
+        <state line="12" column="1" selection-start="484" selection-end="484" vertical-scroll-proportion="0.44844124">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/source/jetty/jetty-all-server-7.2.2.v20101205-sources.jar!/org/eclipse/jetty/server/HandlerContainer.java">
+    <entry file="jar://$PROJECT_DIR$/lib/source/org.springframework.context-sources-3.0.5.RELEASE.jar!/org/springframework/context/ApplicationEvent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="29" selection-start="1170" selection-end="1170" vertical-scroll-proportion="0.23880596">
+        <state line="27" column="22" selection-start="907" selection-end="907" vertical-scroll-proportion="0.33333334">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/source/jetty/jetty-all-server-7.2.2.v20101205-sources.jar!/org/eclipse/jetty/server/Handler.java">
+    <entry file="jar://$PROJECT_DIR$/lib/runtime/org.springframework.core-3.0.5.RELEASE.jar!/org/springframework/core/NestedIOException.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="17" selection-start="1868" selection-end="1875" vertical-scroll-proportion="-0.08955224">
+        <state line="5" column="20" selection-start="169" selection-end="169" vertical-scroll-proportion="0.16915423">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/classes.jar!/java/util/regex/Pattern.class">
+    <entry file="jar://$PROJECT_DIR$/lib/source/org.springframework.core-sources-3.0.5.RELEASE.jar!/org/springframework/core/NestedExceptionUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="12" selection-start="2611" selection-end="2611" vertical-scroll-proportion="0.33333334">
+        <state line="32" column="22" selection-start="1109" selection-end="1109" vertical-scroll-proportion="0.33333334">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/source/jetty/jetty-all-server-7.2.2.v20101205-sources.jar!/org/eclipse/jetty/rewrite/handler/RewriteHandler.java">
+    <entry file="file://$PROJECT_DIR$/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="285" column="16" selection-start="11285" selection-end="11285" vertical-scroll-proportion="0.33333334">
+        <state line="13" column="26" selection-start="571" selection-end="571" vertical-scroll-proportion="0.5497512">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/source/jetty/jetty-all-server-7.2.2.v20101205-sources.jar!/org/eclipse/jetty/rewrite/handler/ResponsePatternRule.java">
+    <entry file="jar://$PROJECT_DIR$/lib/source/org.springframework.web.servlet-sources-3.0.5.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="18" selection-start="2111" selection-end="2111" vertical-scroll-proportion="0.19895288">
+        <state line="16" column="39" selection-start="630" selection-end="661" vertical-scroll-proportion="0.08457711">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/source/jetty/jetty-all-server-7.2.2.v20101205-sources.jar!/org/eclipse/jetty/rewrite/handler/PatternRule.java">
+    <entry file="jar://$PROJECT_DIR$/lib/source/org.springframework.web.servlet-sources-3.0.5.RELEASE.jar!/org/springframework/web/servlet/View.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="30" selection-start="2480" selection-end="2480" vertical-scroll-proportion="0.0">
+        <state line="43" column="17" selection-start="1830" selection-end="1830" vertical-scroll-proportion="1.0995024">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/source/jetty/jetty-all-server-7.2.2.v20101205-sources.jar!/org/eclipse/jetty/rewrite/handler/RewritePatternRule.java">
+    <entry file="file://$PROJECT_DIR$/src/main/com/hibernatetest/web/StringView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="13" selection-start="1107" selection-end="1107" vertical-scroll-proportion="-0.42408377">
+        <state line="21" column="42" selection-start="581" selection-end="581" vertical-scroll-proportion="0.79850745">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/hibernatetest/web/HelloWorldController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="415" selection-end="415" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Library/Caches/IntelliJIdea90CE/extResources/a32f63cf_spring-beans-3.0.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="20" selection-start="2174" selection-end="2174" vertical-scroll-proportion="0.37696335">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/source/jetty/jetty-all-server-7.2.2.v20101205-sources.jar!/org/eclipse/jetty/rewrite/handler/RedirectPatternRule.java">
+    <entry file="file://$PROJECT_DIR$/webapp/WEB-INF/applicationContext-servlet.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="43" selection-start="1030" selection-end="1030" vertical-scroll-proportion="0.33246073">
+        <state line="4" column="64" selection-start="292" selection-end="292" vertical-scroll-proportion="0.16306955">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/WEB-INF/log4j.dtd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="10" selection-start="1029" selection-end="1035" vertical-scroll-proportion="0.37410071">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/WebServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="8" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0">
+        <state line="13" column="0" selection-start="335" selection-end="335" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/source/jetty/jetty-all-server-7.2.2.v20101205-sources.jar!/org/eclipse/jetty/rewrite/handler/Rule.java">
+    <entry file="file://$PROJECT_DIR$/webapp/WEB-INF/log4j.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="27" selection-start="1466" selection-end="1466" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/hibernatetest/HandleEverythingServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="9" selection-start="297" selection-end="297" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="456" selection-end="456" vertical-scroll-proportion="0.42288557">
+        <state line="3" column="20" selection-start="119" selection-end="119" vertical-scroll-proportion="0.12230216">
           <folding />
         </state>
       </provider>

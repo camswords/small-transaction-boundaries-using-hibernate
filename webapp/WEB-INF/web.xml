@@ -5,12 +5,12 @@
          version="2.5">
 
     <servlet>
-        <servlet-name>hibernate-webapp</servlet-name>
-        <servlet-class>com.hibernatetest.HandleEverythingServlet</servlet-class>
+        <servlet-name>applicationContext</servlet-name>
+        <servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
     </servlet>
 
     <servlet-mapping>
-        <servlet-name>hibernate-webapp</servlet-name>
-        <url-pattern>/hibernate/*</url-pattern>
+        <servlet-name>applicationContext</servlet-name>
+        <url-pattern>/page/*</url-pattern>
     </servlet-mapping>
 </web-app>
