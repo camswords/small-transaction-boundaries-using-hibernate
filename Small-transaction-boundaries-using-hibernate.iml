@@ -26,6 +26,7 @@
         <CLASSES>
           <root url="file://$MODULE_DIR$/lib/runtime" />
           <root url="file://$MODULE_DIR$/lib/runtime/logging" />
+          <root url="file://$MODULE_DIR$/lib/runtime/templating" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
@@ -35,9 +36,11 @@
           <root url="jar://$MODULE_DIR$/lib/runtime/org.springframework.context-3.0.5.RELEASE.jar!/" />
           <root url="jar://$MODULE_DIR$/lib/source/org.springframework.context-sources-3.0.5.RELEASE.jar!/" />
           <root url="jar://$MODULE_DIR$/lib/source/org.springframework.core-sources-3.0.5.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/source/templating/stringtemplate-3.2.1-sources.zip!/" />
         </SOURCES>
         <jarDirectory url="file://$MODULE_DIR$/lib/runtime" recursive="false" />
         <jarDirectory url="file://$MODULE_DIR$/lib/runtime/logging" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/lib/runtime/templating" recursive="false" />
       </library>
     </orderEntry>
     <orderEntry type="module-library" scope="TEST">
